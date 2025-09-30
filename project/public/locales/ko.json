@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "홈",
+    "courses": "코스",
+    "shorts": "쇼츠",
+    "blindTasting": "블라인드 테이스팅",
+    "masterclass": "마스터클래스",
+    "community": "커뮤니티",
+    "dashboard": "대시보드",
+    "about": "소개",
+    "subscribe": "구독",
+    "pricing": "가격",
+    "signIn": "로그인",
+    "signUp": "회원가입",
+    "signOut": "로그아웃",
+    "profile": "프로필",
+    "mySubscription": "내 구독",
+    "admin": "관리자",
+    "content": "특별 콘텐츠"
+  },
+  "auth": {
+    "welcomeBack": "Matt Decanted에 다시 오신 것을 환영합니다",
+    "joinMatt": "Matt Decanted 가입하기",
+    "signIn": "로그인",
+    "signOut": "로그아웃",
+    "signUp": "회원가입"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "language": "언어",
+    "selectLanguage": "언어 선택"
+  },
+  "membership": {
+    "free": "무료",
+    "basic": "베이직",
+    "premium": "프리미엄",
+    "admin": "관리자"
+  },
+  "home": {
+    "hero": {
+      "badge": "와인 스펙테이터 톱 100 와인메이커",
+      "headline": "와인 스펙테이터 톱 100을 10년간 달성한 와인메이커에게 배우는 와인",
+      "subheadline": "허세 없이 와인메이커처럼 맛보고, 말하고, 생각하세요.",
+      "videoPlaceholder": "Matt의 소개 영상 보기",
+      "cta": {
+        "startLearning": "무료로 학습 시작",
+        "joinCommunity": "커뮤니티 참여",
+        "continueLearning": "학습 계속하기"
+      },
+      "stats": {
+        "students": "만족한 학생들"
+      }
+    },
+    "credibility": {
+      "title": "전 세계 와인 애호가들의 신뢰",
+      "experience": "30년 이상",
+      "experienceDesc": "와인 제조 경험",
+      "recognition": "와인 스펙테이터 톱 100",
+      "recognitionDesc": "10년 연속",
+      "expertise": "공인 와인 심사위원",
+      "expertiseDesc": "국제 대회"
+    },
+    "community": {
+      "title": "이것은 진짜 사람들을 위한 와인 교육입니다.",
+      "description": "딱딱하지도, 허세부리지도 않습니다. 그저 훌륭한 와인, 멋진 이야기, 그리고 당신을 함께 데려가고 싶어하는 와인메이커가 있을 뿐입니다.",
+      "cta": {
+        "join": "오늘 Matt Decanted에 참여하세요",
+        "freeGuide": "무료 와인 가이드 받기",
+        "explore": "커뮤니티 탐색"
+      }
+    }
+  }
+}

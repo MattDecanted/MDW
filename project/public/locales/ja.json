@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "courses": "コース",
+    "shorts": "ショート動画",
+    "blindTasting": "ブラインドテイスティング",
+    "masterclass": "マスタークラス",
+    "community": "コミュニティ",
+    "dashboard": "ダッシュボード",
+    "about": "について",
+    "subscribe": "購読",
+    "pricing": "価格",
+    "signIn": "サインイン",
+    "signUp": "サインアップ",
+    "signOut": "サインアウト",
+    "profile": "プロフィール",
+    "mySubscription": "マイ購読",
+    "admin": "管理者",
+    "content": "特別コンテンツ"
+  },
+  "auth": {
+    "welcomeBack": "Matt Decanted へようこそ",
+    "joinMatt": "Matt Decanted に参加",
+    "signIn": "サインイン",
+    "signOut": "サインアウト",
+    "signUp": "サインアップ"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "language": "言語",
+    "selectLanguage": "言語を選択"
+  },
+  "membership": {
+    "free": "無料",
+    "basic": "ベーシック",
+    "premium": "プレミアム",
+    "admin": "管理者"
+  },
+  "home": {
+    "hero": {
+      "badge": "ワインスペクテーター トップ100 ワインメーカー",
+      "headline": "ワインスペクテーター トップ100を10年間達成したワインメーカーからワインを学ぶ",
+      "subheadline": "気取らずに、ワインメーカーのように味わい、話し、考える。",
+      "videoPlaceholder": "Mattの紹介を見る",
+      "cta": {
+        "startLearning": "無料で学習開始",
+        "joinCommunity": "コミュニティに参加",
+        "continueLearning": "学習を続ける"
+      },
+      "stats": {
+        "students": "満足した学生"
+      }
+    },
+    "credibility": {
+      "title": "世界中のワイン愛好家に信頼されています",
+      "experience": "30年以上",
+      "experienceDesc": "ワイン造りの経験",
+      "recognition": "ワインスペクテーター トップ100",
+      "recognitionDesc": "10年連続",
+      "expertise": "認定ワイン審査員",
+      "expertiseDesc": "国際コンペティション"
+    },
+    "community": {
+      "title": "これは本当の人々のためのワイン教育です。",
+      "description": "堅苦しくもなく、気取ってもいません。ただ素晴らしいワイン、素晴らしいストーリー、そしてあなたを一緒に連れて行きたいワインメーカーがいるだけです。",
+      "cta": {
+        "join": "今日Matt Decantedに参加",
+        "freeGuide": "無料ワインガイドを入手",
+        "explore": "コミュニティを探索"
+      }
+    }
+  }
+}
