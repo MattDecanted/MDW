@@ -1,0 +1,28 @@
+{
+  "translation": {
+    "nav": {
+      "home": "Home",
+      "blog": "Blog",
+      ...
+    },
+    "auth": {
+      ...
+    },
+    "common": {
+      ...
+    },
+    "homepage": {
+      ...
+    },
+    "footer": {
+      "tagline": "Drink deeply. Learn lightly.",
+      "quickLinks": "Quick Links",
+      "aboutMatt": "About Matt",
+      "freeWineGuide": "Free Wine Guide",
+      "community": "Community",
+      "blindTastingSessions": "Blind Tasting Sessions",
+      "winebackWednesday": "Wineback Wednesday",
+      "discussionForum": "Discussion Forum"
+    }
+  }
+}
