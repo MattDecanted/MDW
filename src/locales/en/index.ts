@@ -237,7 +237,7 @@ export const en = {
     topMembers: 'Top 10 Members',
     membershipStatus: 'Membership Status',
     membership: 'Membership',
-    renewsOn: 'Renews on {date}',
+    renewsOn: 'Renews on {date}', // keep this one
     upgradePrompt: 'Unlock Premium Features',
     upgradeDescription: 'Get access to blind tastings, masterclasses, and direct Q&A with Matt',
     upgradeNow: 'Upgrade Now',
@@ -297,10 +297,10 @@ export const en = {
     communityAccess: 'Community Access',
     membershipDetails: 'Membership Details',
     yourBenefits: 'Your Benefits',
-    renewsOn: 'Renews {date}',
+    // removed duplicate: renewsOn
     activeMembership: 'Active membership',
     endingIn: 'ending in {last4}',
-    completed: 'completed',
+    // removed duplicate: completed
     startedCourse: 'started',
     completedQuiz: 'quiz',
     hoursAgo: '{hours} hours ago',
